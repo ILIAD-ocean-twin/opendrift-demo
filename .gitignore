@@ -5,6 +5,11 @@ build/
 dist/
 wheels/
 *.egg-info
+notebooks/.ipynb_checkpoints
 
 # Virtual environments
 .venv
+
+# Data
+data/*
+
